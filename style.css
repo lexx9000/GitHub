@@ -6,5 +6,6 @@
 
 .rew {
     color: aquamarine;
-    columns: 3px;
+    width: 50px; 
+    height: 30px ;
 }
